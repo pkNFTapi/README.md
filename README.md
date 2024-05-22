@@ -1,7 +1,7 @@
 # pkNFT
 programmable knowledge as private key
 
-The pkNFT project is an innovative NFT platform designed to leverage the power of blockchain technology to manage multiple types of assets, provide secure data storage, and ensure immutable royalty payments to creators. The platform is divided into three main components: pkNFT, NFTapi, and NFroyalT. Each component plays a crucial role in creating a comprehensive and secure NFT ecosystem.
+The <b>pkNFT</b> project is an innovative NFT platform designed to leverage the power of blockchain technology to manage multiple types of assets, provide secure data storage, and ensure immutable royalty payments to creators. The platform is divided into three main components: pkNFT, NFTapi, and NFroyalT. Each component plays a crucial role in creating a comprehensive and secure NFT ecosystem.
 pkNFT
 
 pkNFT stands for "prompt knowledge" as "private key," encapsulating its dual functionality. This component is responsible for managing various types of digital assets, including ERC-20 and ERC-721 tokens. It ensures secure storage and control over AI prompts and agents within the ecosystem.
@@ -37,7 +37,7 @@ Holding Multiple Assets
 
 Secure Data Storage with NFTapi
 
-NFTapi provides a secure repository for storing sensitive information including API keys and login credentials. This component ensures that private data is protected using robust encryption and access control mechanisms.
+<b>NFTapiT</b> provides a secure repository for storing sensitive information including API keys and login credentials. This component ensures that private data is protected using robust encryption and access control mechanisms.
 Immutable Creator Payments with NFroyalT
 
 NFroyalT explores the way creators are compensated by embedding royalty payment rules directly into the smart contract. These rules are immutable and automatically enforce payments to creators whenever an NFT is sold on the secondary market. This system supports both fixed and percentage-based royalties, providing flexibility and fairness to creators.
