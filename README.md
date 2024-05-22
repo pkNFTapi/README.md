@@ -13,7 +13,7 @@ Features:
 
 # NFTapi
 
-NFTapi is the secure storage solution for private data including API keys and login credentials. It ensures that sensitive information is protected and accessible only to the owner(s) as authorized user(s).
+NFTapi private data storage solution including API keys and login credentials. It ensures that sensitive information is protected and accessible only to the owner(s) as authorized user(s).
 Features:
 
     Secure Storage: Stores API keys, login credentials, and other sensitive data securely.
