@@ -37,9 +37,9 @@ Holding Multiple Assets
 
 Secure Data Storage with NFTapi
 
-<b>NFTapiT</b> provides a secure repository for storing sensitive information including API keys and login credentials. This component ensures that private data is protected using robust encryption and access control mechanisms.
+<b>NFTapi</b> provides a secure repository for storing sensitive information including API keys and login credentials. This component ensures that private data is protected using robust encryption and access control mechanisms.
 Immutable Creator Payments with NFroyalT
 
-NFroyalT explores the way creators are compensated by embedding royalty payment rules directly into the smart contract. These rules are immutable and automatically enforce payments to creators whenever an NFT is sold on the secondary market. This system supports both fixed and percentage-based royalties, providing flexibility and fairness to creators.
+<b>NFroyalT</b> explores the way creators are compensated by embedding royalty payment rules directly into the smart contract. These rules are immutable and automatically enforce payments to creators whenever an NFT is sold on the secondary market. This system supports both fixed and percentage-based royalties, providing flexibility and fairness to creators.
 
-The pkNFT platform offers a comprehensive solution for managing digital assets, securing private data, and ensuring fair compensation for creators. By integrating multiple EVM Ethereum standards (ERC-20, ERC-721, and ERC-1155) and leveraging advanced blockchain features, pkNFT creates a robust and secure ecosystem for NFTs.
+The pkNFT platform offers a comprehensive solution for managing digital assets, securing private data, and ensuring fair compensation for creators. By integrating multiple EVM Ethereum standards (ERC-20, ERC-721, and ERC-1155) and leveraging advanced blockchain feature pkNFT creates a robust and secure ecosystem for increased NFT utility.
